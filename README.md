@@ -1,6 +1,6 @@
 # Regional Performance Analytics Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes regional performance distribution using weighted scoring methodology.
 
 ## 🛠 Tools Used
@@ -9,11 +9,11 @@ This project analyzes regional performance distribution using weighted scoring m
 - Matplotlib
 - Excel
 
-## 📊 Key Features
+##  Key Features
 - Data cleaning of pivot-based Excel structure
 - Custom Performance Score calculation
 - Regional ranking system
 - Automated dashboard export
 
-## 📈 Business Insight
+##  Business Insight
 The dashboard identifies performance imbalance across regions and ranks them based on weighted evaluation metrics.
