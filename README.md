@@ -3,7 +3,7 @@
 ##  Project Overview
 This project analyzes regional performance distribution using weighted scoring methodology.
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
